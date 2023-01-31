@@ -1,0 +1,98 @@
+commit ea5de885e66a48f2149c622efd12912bfd556ac2
+Author: Sergio López <s.lopezvwtc@gmail.com>
+Date:   Mon Jan 30 23:39:17 2023 -0600
+
+    Agregando 2 parrafos
+
+commit dc232f08e8c21e6c60f16def2640e80e4cf5635c
+Merge: 2065dbd c07e7be
+Author: Sergio López <s.lopezvwtc@gmail.com>
+Date:   Mon Jan 30 23:17:06 2023 -0600
+
+    Resolviendo conflicto en estaciones del año con fecha de inicio
+
+commit 2065dbd0eee475c0687707018d86ad7a6c1c293d
+Author: Sergio López <s.lopezvwtc@gmail.com>
+Date:   Mon Jan 30 22:57:50 2023 -0600
+
+    Agreando estaciones del año con fecha de inicio
+
+commit c07e7be5c0d8abfc12559c07d5bb0715c208fe86
+Author: Sergio López <s.lopezvwtc@gmail.com>
+Date:   Mon Jan 30 22:57:50 2023 -0600
+
+    Agregando las estaciones del año
+
+commit f371a05c181ff4ac7dbdd629d8161157a6548ced
+Merge: 088f1c6 cc44b16
+Author: Sergio López <s.lopezvwtc@gmail.com>
+Date:   Mon Jan 30 22:52:17 2023 -0600
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit cc44b16bd808ccf2fd2bc9e54e28ae9c0ca5876c
+Author: Sergio López <s.lopezvwtc@gmail.com>
+Date:   Mon Jan 30 22:44:40 2023 -0600
+
+    Agregando index.js al index.html
+
+commit 088f1c6d206b4ec88293fcf3f4932e702be86d2e
+Author: Sergio López <s.lopezvwtc@gmail.com>
+Date:   Mon Jan 30 22:41:19 2023 -0600
+
+    Agregando style.css al index.html
+
+commit c2d07bbe9679cb063b457a7d7c1ea33aaeb46380
+Merge: 2457b25 6ed930a
+Author: Sergio López <s.lopezvwtc@gmail.com>
+Date:   Mon Jan 30 22:22:28 2023 -0600
+
+    Merge branch 'js'
+
+commit 6ed930a0b07a5ed376c918b990ed34ce7fc34a67
+Author: Sergio López <s.lopezvwtc@gmail.com>
+Date:   Mon Jan 30 20:58:41 2023 -0600
+
+    creando index.js
+
+commit 2457b258065c85515f753c49af19db642ad158ba
+Author: Sergio López <s.lopezvwtc@gmail.com>
+Date:   Mon Jan 30 20:54:04 2023 -0600
+
+    creando style.css
+
+commit 5866b90a1d96c5555927f31b806300ce37185fc2
+Author: Sergio López <s.lopezvwtc@gmail.com>
+Date:   Mon Jan 30 20:50:10 2023 -0600
+
+    Creando index.html
+
+commit e06a3cba527fe6c52defe088bf44475c30219749
+Author: Sergio López <s.lopezvwtc@gmail.com>
+Date:   Mon Jan 30 19:53:47 2023 -0600
+
+    ignorando archivos .exe
+
+commit 3ab2d5141add1886940b152751a919d46eb65eab
+Author: 03Serch19 <123988833+03Serch19@users.noreply.github.com>
+Date:   Mon Jan 30 17:20:47 2023 -0600
+
+    Creando licencia del repositorio
+
+commit 881297520d45f95384e54096bbbef80f2206694c
+Author: Sergio López <s.lopezvwtc@gmail.com>
+Date:   Mon Jan 30 16:50:15 2023 -0600
+
+    Agregando contenido inicial al README
+
+commit 990fed7c24cabac8f6aa7bc50fa04d81de37bfe3
+Author: Sergio López <s.lopezvwtc@gmail.com>
+Date:   Mon Jan 30 16:22:11 2023 -0600
+
+    Agregando contenido inicial al README
+
+commit 6018b14bd6af32f56afbb1a3f4a861dc732a51df
+Author: Sergio López <s.lopezvwtc@gmail.com>
+Date:   Mon Jan 30 16:13:20 2023 -0600
+
+    Primer commit
